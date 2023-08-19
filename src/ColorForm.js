@@ -20,3 +20,4 @@ function ColorForm(props){
         </div>
     )
 }
+ export default ColorForm
